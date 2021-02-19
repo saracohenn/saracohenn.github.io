@@ -1,0 +1,43 @@
+h1{
+	text-transform: uppercase;
+  color: red;
+  font-family: Helvetica, sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: left;
+}
+h2{color:gray;
+	font-family: cursive;
+	font-size:10px;
+	font-style:italic;
+}
+body{color:black;
+font-family:Georgia;
+font size: 20px;}
+
+}
+.byline{
+	color:gray;
+	font-family:cursive;
+}
+figcaption{
+	color:gray;
+	font-family:cursive;
+	font size:10px;
+	font-style:italic;
+}
+figcaption{
+	color:gray;
+	font-family:cursive;
+	font size:10px;
+	font-style:italic;}
+section{
+	color:purple;
+	font-family:Georgia;
+	font-size:20;
+}
+.bio{
+	color:gray;
+	font-family: cursive;
+}
+
