@@ -1,0 +1,38 @@
+
+
+#about {
+	color:#3388AC;
+	font-size: 30px;
+}
+
+#title{
+color:teal;
+font-size: 30px;
+font-family:Helvetica,sans-serif;
+text-align:left;
+}
+
+p {
+	text-align: center;
+}
+
+h3{color:teal;
+font-size: 30px;
+font-family:Helvetica,sans-serif;
+text-align:left;
+}
+h6{color:teal;
+font-size: 30px;
+font-family:Helvetica,sans-serif;
+text-align:left}
+
+
+#bio {
+	margin: 0 auto;
+}
+#organization {
+	font-weight: bold;
+}
+.section {
+	color: green;
+}
