@@ -1,3 +1,27 @@
+
+
+
+
+
+body{
+	font-family:'Montserrat',sans-serif;
+	margin-top:3%;
+	margin-bottom:3%;
+}
 h1{
-	
+	font-weight: 800;
+}
+.subhead{
+	font-weight:600;
+}
+.caption{
+	font-size: 12px;
+	color:darkgray;
+}
+.author{
+	font-size:14px;
+	color:darkslategray;
+	font-style:italic;
+	border-bottom:5px solid #C70039;
+	padding-bottom:5%;
 }
